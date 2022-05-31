@@ -60,6 +60,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 #### Blog Posts
 
 - [Sin7Y Tech Review (23): Verkle Tree For ETH](https://hackmd.io/@sin7y/rJZZy_mD9#Sin7Y-Tech-Review-23-Verkle-Tree-For-ETH)
+- [Holochain & Rust Developer Training, hosted by Holo - Apply today for the July Europe cohort](https://holo.host/holochain-rust-developer-immersive)
 
 #### Papers
 
@@ -226,6 +227,10 @@ If we've missed any other notable Rust Ethereum projects or ecosystems, feel fre
 Dec 1-2 | Online
 
 [Event Sample](https://event.sample)
+
+Jul 10-22 | Tyrol, Austria
+
+[Holochain & Rust Developer Training - Apply today](https://holo.host/holochain-rust-developer-immersive)
 
 -->
 
